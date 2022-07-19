@@ -32,3 +32,4 @@ And I used degree_centrality, eigenvector_centrality, pagerank_centrality, close
 
 
 # 3-Community Discovery
+I used the community detection methods and calculated the number of the communities from 2022.1 to 2022.6 respectively, finding the changing trend in community(especially the main nodes of every month). The community detection methods contains Girvan-Newman algorithm, Louvain, Label Propagation and Demon algorithm. And I calculated the numbers of communites and communities distribution in each method. Besides I finished calacuated the outcome of central nodes in every monthes.
